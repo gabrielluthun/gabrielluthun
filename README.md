@@ -3,8 +3,8 @@
 
 
 ## About me
-🌱 At start, I was self-learning since 2024's beginning... <br>
-...but I'm currently learning with Simplon, since May 2024 until... undefined ;)
+<h4>🌱 At start, I was self-learning since 2024's beginning... <br>
+...but I'm currently learning with Simplon, since May 2024 until... undefined ;)</h4>
 
 ### Languages and Tools used for now :
 <p align="left">  
