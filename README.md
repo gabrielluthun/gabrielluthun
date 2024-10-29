@@ -32,4 +32,4 @@
 </p>
 
 ## Contact
-📫 Pour toute question sur mon dépôt, mes futurs projets (ou pour m'embaucher, qui sait), n'hésitez pas à <a href="mailto:gabriel.luthun@gmail.com" class="btn btn-primary">me contacter</a> !
+<h4> 📫 For any question about my repo, my future projects (or hiring me, who knows), feel free to <a href="mailto:gabriel.luthun@gmail.com" class="btn btn-primary">contact me</a> !</h4>
