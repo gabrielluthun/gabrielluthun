@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel, 25 yo</h1>
+<h1 align="center">Hi 👋, I'm Gabriel, 26 yo</h1>
 <h3 align="center">A passionate developer 💻</h3>
 
 
