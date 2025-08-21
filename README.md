@@ -3,8 +3,10 @@
 
 
 ## About me
-<h4>🌱 At start, I was self-learning since 2024's beginning... <br>
-...but I'm currently learning with Simplon, since May 2024 until... undefined ;)</h4>
+<h4>🌱 I started self-learning in early 2024,<br>
+📚 Then joined <i>Simplon</i> in May '24 to deepen my skills in web development,<br>
+🎓 Successfully graduated with an Application Developer Designer degree afterwards 💪</h4>
+
 
 ### Languages and Tools used for now :
 <p align="left">  
