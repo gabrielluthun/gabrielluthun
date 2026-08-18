@@ -17,7 +17,16 @@
 
 ## My Vision
 
-A former **purchasing assistant** (managing €1.5M in margin at Auchan), I traded my data spreadsheets for code in 2024. A graduate of an **Application Developer Designer (CDA) degree in Simplon**, I bring a true **product mindset** to technical teams: every line of code I write must address a real, measurable business need.
+A former **purchasing assistant** (managing €1.5M in margin at Auchan), I traded my data spreadsheets for code in 2024.  
+
+A graduate of an **Application Developer Designer (CDA) degree in Simplon**, I bring a true **product mindset** to technical teams: every line of code I write must address a real, measurable business need.
+
+---
+## What I Built
+
+*   **[maxtracker.fr](https://github.com/gabrielluthun)**: An automated aggregator for TGV Max subscribers, centralizing 0€ tickets in real-time. 
+*   **[Hub des Savoirs](https://github.com/gabrielluthun)**: A unified revision space that cuts prep time in half for game show candidates. 
+*   **[Geekement Vôtre](https://github.com/gabrielluthun)**: A mobile e-commerce booking app built for a local event provider to digitize and scale their business. 
 
 ---
 
@@ -56,14 +65,6 @@ A former **purchasing assistant** (managing €1.5M in margin at Auchan), I trad
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-## What I Built
-
-*   **[maxtracker.fr](https://github.com/gabrielluthun)**: An automated aggregator for TGV Max subscribers, centralizing 0€ tickets in real-time. *(React, FastAPI, MongoDB)*
-*   **[Hub des Savoirs](https://github.com/gabrielluthun)**: A unified revision space that cuts prep time in half for game show candidates. *(TypeScript, Vite, Tauri)*
-*   **[Geekement Vôtre](https://github.com/gabrielluthun)**: A mobile e-commerce booking app built for a local event provider to digitize and scale their business. *(Kotlin, Supabase, Resend)*
 
 ---
 
