@@ -2,7 +2,7 @@
 
 # Hi, I'm Gabriel 👋
 
-### Full-Stack Developer • I don't code for style, I code for impact.
+### Full-Stack Developer • No style, just impact.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-509ba4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabrielluthun.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-luthun/)
