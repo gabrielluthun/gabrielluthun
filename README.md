@@ -1,18 +1,76 @@
-<h1 align="center">Hi 👋, I'm Gabriel, 27 yo</h1>
-<h3 align="center">A passionate developer 💻</h3>
+<div align="center">
 
-## About me
-<h4>🌱 I started self-learning in early 2024,<br>
-📚 Then joined <i>Simplon</i> in May '24 to deepen my skills in web development,<br>
-🎓 Successfully graduated with an Application Developer Designer degree afterwards 💪</h4>
+# Hi, I'm Gabriel 👋
 
-### Languages and Tools used for now :
+### Full-Stack Developer • I don't code for style, I code for impact.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" width="40" height="40"/> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="40" height="40"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-509ba4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gabrielluthun.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-luthun/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.luthun@gmail.com)
 
-## Future playthings :
+[![Status](https://img.shields.io/badge/Status-Available_for_missions_&_CDD/CDI-success?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Location-Lille_/_Remote,_France-blue?style=flat-square)]()
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+</div>
 
-## Contact
-<h4> 📫 For any question about my repo, my future projects (or hiring me, who knows), feel free to <a href="mailto:gabriel.luthun@gmail.com" class="btn btn-primary">contact me</a> !</h4>
+---
+
+## My Vision
+
+A former **purchasing assistant** (managing €1.5M in margin at Auchan), I traded my data spreadsheets for code in 2024. A graduate of an **Application Developer Designer (CDA) degree in Simplon**, I bring a true **product mindset** to technical teams: every line of code I write must address a real, measurable business need.
+
+---
+
+## My Stack & Tools
+
+> *What I use daily to design robust and scalable applications:*
+
+### Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### Backend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+### Desktop App
+<p>
+  <img src="https://img.shields.io/badge/Tauri-FFC107?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
+### Database, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## What I Built
+
+*   **[maxtracker.fr](https://github.com/gabrielluthun)**: An automated aggregator for TGV Max subscribers, centralizing 0€ tickets in real-time. *(React, FastAPI, MongoDB)*
+*   **[Hub des Savoirs](https://github.com/gabrielluthun)**: A unified revision space that cuts prep time in half for game show candidates. *(TypeScript, Vite, Tauri)*
+*   **[Geekement Vôtre](https://github.com/gabrielluthun)**: A mobile e-commerce booking app built for a local event provider to digitize and scale their business. *(Kotlin, Supabase, Resend)*
+
+---
+
+## What's Next?
+
+I am looking for **Freelance missions** or a **CDD / CDI position in France**. 
+
+I am eager to join a talented and demanding technical team where rigorous code quality meets a strong product culture. If you are looking for a developer who cares as much about the business impact and user experience as about the codebase, let’s talk!
+
+📫 **Want to chat or take a look at my resume?** [Contact me by email](mailto:gabriel.luthun@gmail.com) or check out my [portfolio](https://gabrielluthun.github.io/portfolio/).
